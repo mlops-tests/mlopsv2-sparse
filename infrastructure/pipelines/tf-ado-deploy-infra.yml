@@ -12,8 +12,7 @@ variables:
 trigger:
 - none
 
-pool:
-  vmImage: $(ap_vm_image)
+pool: personal
 
 resources:
   repositories:

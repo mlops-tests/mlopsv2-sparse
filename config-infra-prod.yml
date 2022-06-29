@@ -7,9 +7,9 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: mlopsv2
-  postfix: 0518
-  location: westus
+  namespace: mlopsv2teprd
+  postfix: 05181774
+  location: westeurope
   environment: prod
   enable_aml_computecluster: true
 

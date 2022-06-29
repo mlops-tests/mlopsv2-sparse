@@ -6,8 +6,8 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: mlopsv2tests
-  postfix: 06215798
+  namespace: tmlops
+  postfix: 7985
   location: westeurope
   environment: dev
   enable_aml_computecluster: true
